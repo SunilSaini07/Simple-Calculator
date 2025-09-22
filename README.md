@@ -1,4 +1,4 @@
-# Simple Calculator 🧮
+# Simple Calculator 
 
 A basic console-based calculator written in Java that performs simple operations. This project is ideal for beginners learning Java and console I/O.
 
